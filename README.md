@@ -28,16 +28,16 @@ Profile Stats
 <!-- 
 Known Coding languages 
 -->
-<div style="display: inline-block" align='center'>
-    <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Rafa-Vuejs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-    <img align="center" alt="Rafa-Vuejs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
-    <img align="center" alt="Rafa-Vuejs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
-    <img align="center" alt="Rafa-Vuejs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">
-    <img align="center" alt="Rafa-Vuejs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-    <img align="center" alt="Rafa-Vuejs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg">
-    <img align="center" alt="Rafa-Vuejs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
-    <img align="center"  src="https://discord.c99.nl/widget/theme-4/404020388658675723.png">
+<div style="display: flex; align-items: center; justify-content: center">
+    <img alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img alt="Rafa-Vuejs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+    <img alt="Rafa-Vuejs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
+    <img alt="Rafa-Vuejs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+    <img alt="Rafa-Vuejs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">
+    <img alt="Rafa-Vuejs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+    <img alt="Rafa-Vuejs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg">
+    <img alt="Rafa-Vuejs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
+    <img src="https://discord.c99.nl/widget/theme-4/404020388658675723.png">
 </div>
 
 

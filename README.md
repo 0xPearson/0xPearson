@@ -2,12 +2,12 @@
 Top Badges
 -->
 <p align='center'>
-    <a href='https://github.com/MJMODZZ?tab=repositories&sort=stargazers'>
-        <img alt='total stars' title='Total stars on GitHub' src='https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/MJMODZZ'/>
+    <a href='https://github.com/0xPearson?tab=repositories&sort=stargazers'>
+        <img alt='total stars' title='Total stars on GitHub' src='https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/0xPearson'/>
     </a>
     <img src='https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Callumgm&logo=Github&style=for-the-badge&color=16a085'>
-    <a href='https://github.com/MJMODZZ?tab=followers'>
-        <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/MJMODZZ?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
+    <a href='https://github.com/0xPearson?tab=followers'>
+        <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/0xPearson?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
     </a>
 </p>
 
@@ -22,7 +22,7 @@ Spaces
 Profile Stats 
 -->
 <p align="middle">
-    <img src='https://github-readme-streak-stats.herokuapp.com?user=MJMODZZ&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D'/>
+    <img src='https://github-readme-streak-stats.herokuapp.com?user=0xPearson&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D'/>
 </p>
 
 
@@ -44,5 +44,5 @@ Known Coding languages
 <!-- 
 Snake animation
 -->
-  <a href='https://github.com/MJMODZZ'>
+  <a href='https://github.com/0xPearson'>
         <img alt='Snake Animation' src='https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg'/>

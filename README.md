@@ -7,6 +7,19 @@ Known Coding languages
     <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
 </div>
 
+<!-- Spaces -->
+<br>
+<br>
+
+<div align='center'>
+    <br></br>
+    <img src="https://discord.c99.nl/widget/theme-4/404020388658675723.png">
+</div>
+
+<!-- Spaces -->
+<br>
+<br>
+
 <!-- Known Technologies -->
 <div align="center">
     <br></br>
@@ -18,7 +31,6 @@ Known Coding languages
     <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg">
 </div>
 
-
 <!-- Spaces -->
 <br>
 <br>
@@ -28,17 +40,10 @@ Known Coding languages
     <img src='https://github-readme-streak-stats.herokuapp.com?user=0xPearson&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D'/>
 </p>
 
-<div align='center'>
-    <br></br>
-    <img src="https://discord.c99.nl/widget/theme-4/404020388658675723.png">
-</div>
-
 <br>
 <br>
 
-<!-- 
-Badges
--->
+<!-- Badges -->
 <p align='center'>
     <a href='https://github.com/0xPearson?tab=repositories&sort=stargazers'>
         <img alt='total stars' title='Total stars on GitHub' src='https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/0xPearson'/>

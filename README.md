@@ -28,7 +28,7 @@ Profile Stats
 <!-- 
 Known Coding languages 
 -->
-<div style="display: flex; align-items: center;"><br>
+<div style="display: flex; align-items: center; justify-content: center;"><br>
     <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img align="center" alt="Rafa-Vuejs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
     <img align="center" alt="Rafa-Vuejs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
@@ -37,8 +37,6 @@ Known Coding languages
     <img align="center" alt="Rafa-Vuejs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
     <img align="center" alt="Rafa-Vuejs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg">
     <img align="center" alt="Rafa-Vuejs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
-    <br>
-<br>
     <img align="center"  src="https://discord.c99.nl/widget/theme-4/404020388658675723.png">
 </div>
 

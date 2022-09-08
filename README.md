@@ -24,8 +24,6 @@
     <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
 </div>
 
-<br></br>
-
 <!-- Known Technologies -->
 <div align="center">
     <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">

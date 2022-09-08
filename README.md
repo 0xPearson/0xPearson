@@ -39,6 +39,10 @@ Known Coding languages
     <img alt="Rafa-Vuejs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
 </div>
 
+<div align='center'>
+    <img src="https://discord.c99.nl/widget/theme-4/404020388658675723.png">
+</div>
+
 
 <!-- 
 Snake animation

@@ -42,6 +42,7 @@ Known Coding languages
     <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
     <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg">
     <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
+    <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg">
 </div>
 
 <div align='center'>

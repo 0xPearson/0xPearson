@@ -29,21 +29,23 @@ Profile Stats
 Known Coding languages 
 -->
 <div align="center">
-    <img alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img alt="Rafa-Vuejs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-    <img alt="Rafa-Vuejs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
+    <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+    <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
 </div>
 
 <!-- Known Technologies -->
 <div align="center">
-    <img alt="Rafa-Vuejs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
-    <img alt="Rafa-Vuejs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">
-    <img alt="Rafa-Vuejs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-    <img alt="Rafa-Vuejs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg">
-    <img alt="Rafa-Vuejs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
+    <br></br>
+    <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+    <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">
+    <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+    <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg">
+    <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
 </div>
 
 <div align='center'>
+    
     <br></br>
     <img src="https://discord.c99.nl/widget/theme-4/404020388658675723.png">
 </div>

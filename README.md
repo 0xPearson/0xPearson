@@ -33,8 +33,11 @@ Known Coding languages
     <img src="https://discord.c99.nl/widget/theme-4/404020388658675723.png">
 </div>
 
+<br>
+<br>
+
 <!-- 
-Top Badges
+Badges
 -->
 <p align='center'>
     <a href='https://github.com/0xPearson?tab=repositories&sort=stargazers'>

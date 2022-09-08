@@ -1,15 +1,3 @@
-<!-- 
-Known Coding languages 
--->
-<div align="center">
-    <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-    <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
-</div>
-
-<!-- Spaces -->
-<br>
-
 <div align='center'>
     <br></br>
     <img src="https://discord.c99.nl/widget/theme-4/404020388658675723.png">
@@ -28,9 +16,19 @@ Known Coding languages
     </a>
 </p>
 
+<br></br>
+
+<!-- Known Coding languages -->
+<div align="center">
+    <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+    <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
+</div>
+
+<br></br>
+
 <!-- Known Technologies -->
 <div align="center">
-    <br></br>
     <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
     <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">
     <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">

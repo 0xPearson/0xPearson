@@ -9,7 +9,6 @@ Known Coding languages
 
 <!-- Spaces -->
 <br>
-<br>
 
 <div align='center'>
     <br></br>
@@ -18,7 +17,16 @@ Known Coding languages
 
 <!-- Spaces -->
 <br>
-<br>
+
+<!-- Badges -->
+<p align='center'>
+    <a href='https://github.com/0xPearson?tab=repositories&sort=stargazers'>
+        <img alt='total stars' title='Total stars on GitHub' src='https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/0xPearson'/>
+    </a>
+    <a href='https://github.com/0xPearson?tab=followers'>
+        <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/0xPearson?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
+    </a>
+</p>
 
 <!-- Known Technologies -->
 <div align="center">
@@ -41,21 +49,7 @@ Known Coding languages
 </p>
 
 <br>
-<br>
 
-<!-- Badges -->
-<p align='center'>
-    <a href='https://github.com/0xPearson?tab=repositories&sort=stargazers'>
-        <img alt='total stars' title='Total stars on GitHub' src='https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/0xPearson'/>
-    </a>
-    <a href='https://github.com/0xPearson?tab=followers'>
-        <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/0xPearson?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
-    </a>
-</p>
-
-
-<!-- 
-Snake animation
--->
+<!-- Snake animation -->
   <a href='https://github.com/0xPearson'>
         <img alt='Snake Animation' src='https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg'/>

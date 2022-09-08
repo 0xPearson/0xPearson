@@ -30,9 +30,6 @@ Known Coding languages
 -->
 <div style="display: inline_block" align="middle"><br>
     <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
-    <img align="center" alt="Rafa-Go" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-    <img align="center" alt="Rafa-Html" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
     <br>
 <br>
     <img align="center"  src="https://discord.c99.nl/widget/theme-4/404020388658675723.png">

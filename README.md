@@ -16,7 +16,6 @@
     </a>
 </p>
 
-<br></br>
 
 <!-- Known Coding languages -->
 <div align="center">

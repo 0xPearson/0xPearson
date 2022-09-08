@@ -28,7 +28,7 @@ Profile Stats
 <!-- 
 Known Coding languages 
 -->
-<div style="display: flex; align-items: center; justify-content: center; width: 100%;">
+<div align="center">
     <img alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img alt="Rafa-Vuejs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
     <img alt="Rafa-Vuejs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
